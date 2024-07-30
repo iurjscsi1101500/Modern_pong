@@ -1,11 +1,11 @@
 # Modern Pong
-**it is clone of atari pong and it has lots of features such has Menu, Difficulty, Sound effects**
+**It is clone of Atari Pong and it has lots of features such has Menu, Difficulty, Sound effects**
 ## Dependencies
 You will Need:
   - **[Raylib](https://www.raylib.com/)**
 
 
-### Get Sorce and Run
+### Get Source and Run
 ```
 git clone https://github.com/iurjscsi1101500/Modern_pong
 cd Modern_pong
